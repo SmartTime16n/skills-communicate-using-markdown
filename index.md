@@ -6,3 +6,9 @@
 cuando con tus dedos tocas la parte de la palma de la mano del lado del pulgar.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
