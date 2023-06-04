@@ -12,3 +12,6 @@ cuando con tus dedos tocas la parte de la palma de la mano del lado del pulgar.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
